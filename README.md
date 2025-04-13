@@ -39,6 +39,9 @@ Each reading uses **3 bytes**:
 - Address `0`: pointer to next write location
 - Up to 170 readings (~1 week of hourly data)
 
+## Data Visualisation (first 7 days)
+![Temperature Plot](temp.png)
+![Humidity Plot](humidity.png)
 ## Power Saving
 
 - LCD turns off after **30 minutes** of no presence
